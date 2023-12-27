@@ -1,0 +1,25 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Web Quiz Engine with Java/*
+!/Web Quiz Engine with Java/task/
+/Web Quiz Engine with Java/task/*
+!/Web Quiz Engine with Java/task/src
+!/Web Quiz Engine with Java/task/build.gradle
+
+# Project exclude paths
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
+/Topics/Regexes in programs/Check the date/out/
+/Topics/Regexes in programs/Check the date/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
